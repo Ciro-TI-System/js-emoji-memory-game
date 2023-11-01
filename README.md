@@ -20,6 +20,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🎲 DEMO
 
+
+https://github.com/Ciro-TI-System/js-emoji-memory-game/assets/78507494/3f518e74-5f55-4714-9b0a-20a3a10ce0ff
+
+
 <br>
 
 ## 📝 License
